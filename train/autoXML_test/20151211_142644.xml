@@ -1,0 +1,1 @@
+<annotation><folder>Images</folder><filename>20151211_142644.jpg</filename><segmented>0</segmented><size><width>3264</width><height>2448</height><depth>3</depth></size><object><name>tray</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>226</xmin><ymin>392</ymin><xmax>3011</xmax><ymax>2277</ymax></bndbox></object></annotation>
